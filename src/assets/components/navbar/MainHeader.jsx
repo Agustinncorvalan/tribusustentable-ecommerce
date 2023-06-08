@@ -51,7 +51,7 @@ const MainHeader = () => {
                     <button className="">
                         <CartIcon />
                     </button>
-                    <p id="Sign up">Sign up</p>
+                    <p id="Sign up">Iniciar Sesion</p>
                     <a href="#"><img src={Avatar} alt="sign up" className="block w-9 md:block" /></a>
 
 
